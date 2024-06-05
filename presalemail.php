@@ -1,0 +1,367 @@
+<?php
+//$fullname = "Ravikumar";
+//$email = "ravipro17@gmail.com";
+$to = $email; 
+$from = 'noreply@humb.io'; 
+$fromName = 'HUMB Exchange'; 
+
+$subject = 'Welcome to HUMB Private Presale';
+
+//$headers  = "From: noreply@humb.io\r\n";
+//$headers .= "MIME-Version: 1.0\r\n";
+//$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+$message = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting">
+  <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
+  <title></title>
+  
+    <style type="text/css">
+      @media only screen and (min-width: 620px) {
+  .u-row {
+    width: 600px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 600px !important;
+  }
+
+}
+
+@media (max-width: 620px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors="true"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #d31a60; text-decoration: underline; } @media (max-width: 480px) { #u_column_2 .v-col-border { border-top: 5px solid #8d95ff !important;border-left: 5px solid #8d95ff !important;border-right: 5px solid #8d95ff !important;border-bottom: 5px solid #8d95ff !important; } #u_content_image_1 .v-container-padding-padding { padding: 20px 10px 10px !important; } #u_content_image_1 .v-src-width { width: auto !important; } #u_content_image_1 .v-src-max-width { max-width: 31% !important; } #u_content_text_2 .v-container-padding-padding { padding: 20px 10px 10px !important; } #u_content_text_1 .v-container-padding-padding { padding: 10px 10px 40px !important; } #u_content_text_3 .v-container-padding-padding { padding: 10px 10px 20px !important; } }
+    </style>
+  
+  
+
+<!--[if !mso]><!--><link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet" type="text/css"><!--<![endif]-->
+
+</head>
+
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ecf0f1;color: #000000">
+  <!--[if IE]><div class="ie-container"><![endif]-->
+  <!--[if mso]><div class="mso-container"><![endif]-->
+  <table id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ecf0f1;width:100%" cellpadding="0" cellspacing="0">
+  <tbody>
+  <tr style="vertical-align: top">
+    <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+    <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #ecf0f1;"><![endif]-->
+    
+  
+  
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+  <div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+    <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+      <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+      
+<!--[if (mso)|(IE)]><td align="center" width="570" class="v-col-border" style="background-color: #ffffff;width: 570px;padding: 0px;border-top: 15px solid #d31a61;border-left: 15px solid #d31a61;border-right: 15px solid #d31a61;border-bottom: 15px solid #d31a61;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+<div id="u_column_2" class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+  <div style="background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+  <!--[if (!mso)&(!IE)]><!--><div class="v-col-border" style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 15px solid #d31a61;border-left: 15px solid #d31a61;border-right: 15px solid #d31a61;border-bottom: 15px solid #d31a61;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;"><!--<![endif]-->
+  
+<table id="u_content_image_1" style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:30px 10px 20px;font-family:sans-serif;" align="left">
+        
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="padding-right: 0px;padding-left: 0px;" align="center">
+      
+      <img align="center" border="0" src="https://humb.io/assets/images/other.png" alt="image" title="image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 31%;max-width: 179.8px;" width="179.8" class="v-src-width v-src-max-width"/>
+      
+    </td>
+  </tr>
+</table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 0px;font-family:sans-serif;" align="left">
+        
+  <table height="0px" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+    <tbody>
+      <tr style="vertical-align: top">
+        <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+          <span>&#160;</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table id="u_content_text_2" style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px 40px 10px;font-family:sans-serif;" align="left">
+        
+  <div style="font-size: 14px; font-weight: 400; line-height: 140%; text-align: left; word-wrap: break-word;">
+    <p style="line-height: 140%;">Dear  ' .$fullname. '<br /><br /></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;" align="justify"><span style="line-height: 19.6px;">I hope this message finds you well. </span></p>
+<br>
+<p style="line-height: 140%;" align="justify"><span style="line-height: 19.6px;">Thank you for expressing your interest in participating in the HUMB Private Presale. We are thrilled to have you on board & appreciate your Confidence in our Innovative Project. </span></p>
+<br>
+
+<p style="line-height: 140%;" align="justify"><span style="line-height: 19.6px;">To proceed with your Participation, we kindly request you to Complete the KYC (Know Your Customer) Process. This step is Essential to ensure Compliance with Regulatory Requirements & to maintain the Highest Standards of Security & Transparency within our Platform.</span></p>
+
+<br>
+<p style="line-height: 140%;" align="justify"><span style="line-height: 19.6px;">Please provide the following documents:</span></p>
+
+
+</div>
+</div>
+</div>
+<p style="line-height: 140%;"> </p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;"><span style="line-height: 19.6px;"><strong>For Personal KYC</strong>:</span></p>
+<p style="line-height: 140%;"> </p>
+</div>
+</div>
+</div>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;"><strong><span style="line-height: 19.6px;">Proof of Identity </span>:</strong>  Passport, Aadhar Card (National ID), PAN Card (TAX ID)</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;"><span style="line-height: 19.6px;"><strong>Proof of Address:</strong> Passport, Aadhar Card (National ID), Utility Bill</span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;"><strong>Photo: </strong>Your Latest Photo</span></p>
+<p style="line-height: 140%;"> </p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;"><strong>For Company Verification</strong>(If you intend to Purchase HUMB Tokens through your Company)</span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;"><br /><strong>1. Company Registration Document: </strong>Incorporation Certificate <br /><strong>2. Proof of Company Address:</strong> Company Documents with Address / Utility Bill, Rental / Lease Agreement<br /><strong>3. Proof of Authority:</strong> Your Position as Signing Authority / Decision Maker of the Company</span>
+    <br />4. List of Directors & Shareholders</span>
+    <br />5. Company’s Financial / Bank Account Details</span>
+</p>
+<p style="line-height: 140%;"> </p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">Please submit the documents to <span style="color: #0000ff; line-height: 19.6px;">documents@HUMB.io </span></span></p>
+<div class="column">
+    <p style="line-height: 140%;"><span style="line-height: 19.6px;"><br><strong>Next Steps:</strong>:</span></p>
+  
+    </div>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">1. Upon receiving your Documents, our Team will promptly Review them.</p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">2. You will receive a Confirmation Email once your KYC & Company Verification are complete. </span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">3. Further instructions on how to Participate in the Private Presale will follow after the Verification Process</span>.</p>
+
+    <p style="line-height: 140%;"><span style="line-height: 19.6px;">In case you have any questions or need assistance with the KYC Process, please do not hesitate to contact our Dedicated Presale Support Team at <span style="color: #0000ff; line-height: 19.6px;">presale@HUMB.io </span></span></p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table id="u_content_text_1" style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px 40px 30px;font-family:sans-serif;" align="left">
+        
+  <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
+    <div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">We look forward to your successful participation in the HUMB Private Presale & are excited about the potential growth & innovations we can achieve together. <br>Thank you once again for your interest & support. </span></p>
+<p style="line-height: 140%;"> </p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">Best regards, </span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">Team HUMB </span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">https://www.humb.io </span></p>
+</div>
+</div>
+</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+  
+
+
+  
+  
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+  <div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+    <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+      <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
+      
+<!--[if (mso)|(IE)]><td align="center" width="600" class="v-col-border" style="background-color: #8d95ff;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+  <div style="background-color: #ffcade;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
+  <!--[if (!mso)&(!IE)]><!--><div class="v-col-border" style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;"><!--<![endif]-->
+  
+<table id="u_content_text_3" style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:sans-serif;" align="left">
+        
+  <div style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: center; word-wrap: break-word;">
+    <p style="line-height: 170%;"><a rel="noopener" href="https://humb.io/termsandconditions.php" target="_blank">TERMS &amp; CONDITIONS</a>   |  <a rel="noopener" href="https://humb.io/privacypolicy.php" target="_blank"> PRIVACY POLICY</a>   </p>
+<p style="line-height: 170%;"> </p>
+<p style="line-height: 170%;"><a rel="noopener" href="https://humb.io/" target="_blank">WWW.HUMB.IO</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="font-family:sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:sans-serif;" align="left">
+        
+  <table height="0px" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+    <tbody>
+      <tr style="vertical-align: top">
+        <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+          <span>&#160;</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+  
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+</body>
+
+</html>
+
+';
+
+$headers  = 'MIME-Version: 1.0' . "\r\n";
+$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+
+// Additional headers
+$headers .= 'From: HUMB Exchange <noreply@humb.io>' . "\r\n";  
+//$headers .= 'Cc: '.$totwo . "\r\n";
+
+if ( mail($to, $subject, $message, $headers)) {
+  echo("Email successfully sent to $to...");
+} else {
+  echo("Email sending failed...");
+}
+
+
+?>
